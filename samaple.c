@@ -1,2 +1,2 @@
 this is the dot net code
-azure
+azure, aws , google coud, ibm , database
